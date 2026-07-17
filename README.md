@@ -29,14 +29,6 @@
 
 ---
 
-# 🐍 GitHub Contribution Snake:
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rajvi2020/Rajvi2020/output/github-contribution-grid-snake.svg" />
-
-</div>
-
 ---
 
 # 📊 GitHub Stats:
@@ -47,7 +39,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rajvi2020&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Rajvi2020&theme=tokyonight" />
+
+<br/>
+
 
 </div>
 
