@@ -43,20 +43,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajvi2020&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rajvi2020&show_icons=true&hide_border=true&theme=tokyonight" width="450"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rajvi2020&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Rajvi2020&hide_border=true&theme=tokyonight" width="450"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajvi2020&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajvi2020&layout=compact&hide_border=true&theme=tokyonight" width="350"/>
 
 </div>
-
----
-
 # 📈 Profile Views:
 
 <div align="center">
