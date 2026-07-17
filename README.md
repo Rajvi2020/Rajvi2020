@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am final year CE  student  and frontend developer
+Python Developer | Aspiring Backend Developer  
+Learning Django, REST APIs & Database Management  
+Building projects and improving my skills.
 
 
 # 💻 Tech Stack:
