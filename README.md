@@ -26,19 +26,6 @@
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-# 🚀 Projects:
-
-### 🏙️ Smart Civic Issue Reporting Platform
-- Django based web application
-- Citizen complaint registration and tracking system
-- Database management using SQLite
-
-### 💳 Credit Risk Prediction System
-- Machine Learning based project
-- Used Python, Scikit-learn, XGBoost
-- Risk prediction and model evaluation
 
 ---
 
