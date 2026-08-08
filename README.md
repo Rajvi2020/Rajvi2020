@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-👋 Hi, I'm Rajvi  
+👋 Hi, I'm Rajvi
 
-🐍 Python Developer | Aspiring Backend Developer  
-🌱 Currently learning Django, REST APIs & Database Management  
-💻 Building projects and improving my backend development skills.
+🐍 Python Developer | Backend Developer
+🚀 Skilled in Django & REST APIs
+🗄️ Working with MySQL & Database Management
+💻 Building real-world backend applications
+🌱 Passionate about learning and growing as a Backend Developer
 
 ---
 
